@@ -1,0 +1,15 @@
+#Um Funcionario possui:
+
+Atributos(
+	-> nome (String);
+	-> departamento (String);
+	-> salario (double);
+	-> data de entrada (String);
+	-> RG (String);
+)
+
+Metodos(
+	-> admite() : void
+	-> recebeAumento(parametro1 [int]) : void
+	-> calculaGanhoAnual() : double
+)

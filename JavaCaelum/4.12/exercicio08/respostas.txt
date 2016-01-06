@@ -1,0 +1,7 @@
+-> Dá erro, caso o atributo não seja assinado com static [atributo de classe]
+
+-> Ex:. Funcionario.salario = 1234;
+	-> Faz sentido se for necessario alterar o salario de forma global para os funcionarios;
+
+-> Ex:. Funcionario.calculaGanhoAtual();
+	-> Sim, caso os funcionarios tenham um ganho anual comum;
