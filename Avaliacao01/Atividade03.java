@@ -15,6 +15,5 @@ public class Atividade03 {
 		}else{
 			System.out.println("Valores nao aceitos");
 		}
-		
 	}
 }
