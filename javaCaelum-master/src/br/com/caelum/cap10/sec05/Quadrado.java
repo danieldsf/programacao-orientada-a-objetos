@@ -1,0 +1,14 @@
+package br.com.caelum.cap10.sec05;
+
+public class Quadrado implements AreaCalculavel{
+	private int lado;
+	
+	public Quadrado(int lado){
+		this.lado = lado;
+	}
+	
+	public double calculaArea(){
+		return this.lado * this.lado;
+	}
+	
+}
